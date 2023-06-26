@@ -1,0 +1,202 @@
+{
+  "seller": [
+    {
+      "name": "ujjwol",
+      "email": "ujjwol@gmail.com",
+      "password": "ujjwol",
+      "id": 1
+    },
+    {
+      "name": "cool",
+      "email": "cool@gmail.com",
+      "password": "cool",
+      "id": 2
+    },
+    {
+      "name": "jacky",
+      "email": "jacky@gmail.com",
+      "password": "jacky",
+      "id": 3
+    },
+    {
+      "name": "bibek",
+      "email": "bibek@gmail.com",
+      "password": "bibek",
+      "id": 4
+    },
+    {
+      "name": "bisal",
+      "email": "bisal@gmail.com",
+      "password": "bisal",
+      "id": 5
+    },
+    {
+      "name": "bisal",
+      "email": "bisal@gmail.com",
+      "password": "bisal",
+      "id": 6
+    },
+    {
+      "name": "bisal",
+      "email": "bisal@gmail.com",
+      "password": "bisal",
+      "id": 7
+    },
+    {
+      "name": "jjj",
+      "email": "fsjsld",
+      "password": "fsd",
+      "id": 8
+    },
+    {
+      "name": "cancel",
+      "email": "fsfdsaf",
+      "password": "asds",
+      "id": 9
+    },
+    {
+      "name": "lveo",
+      "email": "love@gmail.com",
+      "password": "love",
+      "id": 10
+    },
+    {
+      "name": "ujj",
+      "email": "ujj@gmail.com",
+      "password": "ujj",
+      "id": 11
+    },
+    {
+      "name": "ujjjman",
+      "email": "ujjman@gmail.com",
+      "password": "ujjman",
+      "id": 12
+    },
+    {
+      "name": "body",
+      "email": "body@gmail.com",
+      "password": "body",
+      "id": 13
+    },
+    {
+      "name": "hkkh",
+      "email": "jljl",
+      "password": "nn",
+      "id": 14
+    },
+    {
+      "name": "hulk",
+      "email": "hulk@gmail.com",
+      "password": "hulk",
+      "id": 15
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail",
+      "password": "hello",
+      "id": 16
+    },
+    {
+      "name": "love",
+      "email": "hello",
+      "password": "helo",
+      "id": 17
+    },
+    {
+      "email": "ujjwol@gmail.com",
+      "password": "ujjwol",
+      "id": 18
+    },
+    {
+      "email": "ujjwol@gmail.com",
+      "password": "456",
+      "id": 19
+    }
+  ],
+  "products": [
+    {
+      "name": "Redmi note 7 pro",
+      "price": "100000",
+      "color": "white",
+      "category": "Mobile",
+      "description": "very good phone",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "one  8 pro",
+      "price": "199",
+      "color": "black",
+      "category": "Mobile",
+      "description": "very good phone",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg",
+      "id": 4
+    },
+    {
+      "name": "Samsung",
+      "price": "100000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "very good phone",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "ujjman",
+      "email": "ujjman@gmail.com",
+      "password": "ujjman",
+      "id": 1
+    },
+    {
+      "name": "ujjwol123",
+      "email": "ujjwol123@gmail.com",
+      "password": "ujjwol123",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "ujjman@gmail.com",
+      "address": "kathmandu",
+      "contact": "9861083424",
+      "totalPrice": 300498,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "ujjman@gmail.com",
+      "address": "kathmandu",
+      "contact": "9861083424",
+      "totalPrice": 300498,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "ujjwol123@gmail.com",
+      "address": "kathmandu",
+      "contact": "9861083424",
+      "totalPrice": 1493,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "email": "ujjman@gmail.com",
+      "address": "kathmandu",
+      "contact": "9861083424",
+      "totalPrice": 500100,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "email": "ujjwol@gmail.com",
+      "address": "kathmandu",
+      "contact": "9861083424",
+      "totalPrice": 200100,
+      "userId": 1,
+      "id": 7
+    }
+  ]
+}

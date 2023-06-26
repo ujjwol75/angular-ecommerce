@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import '@angular/localize/init'; 
 
 @Component({
   selector: 'app-root',
